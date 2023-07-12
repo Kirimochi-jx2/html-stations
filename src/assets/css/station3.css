@@ -1,5 +1,7 @@
 /*カードの背景色を#FFFFFFに設定*/
-background-color: #FFFFFF;
+.card {
+  background-color: #FFFFFF;
+}
 /*タイトルの文字の色を#282828、大きさを14pxに設定*/
 h1 {
   color: #282828;
