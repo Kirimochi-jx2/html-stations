@@ -1,0 +1,27 @@
+/*カードの背景色を#FFFFFFに設定*/
+.card {
+    background-color: #FFFFFF;
+  }
+  /*タイトルの文字の色を#282828、大きさを14pxに設定*/
+  h1 {
+    color: #282828;
+    font-size: 14px;
+  }
+  /*説明の文字：色を#282828、大きさを12pxに設定*/
+  p {
+    color: #282828;
+    font-size: 12px;
+  }
+  /*画像の大きさ：横- 288px、縦- 182pxに設定*/
+  img {
+    width: 288px;
+    height: 182px;
+  }
+  /*画像の下の余白は、imgのmargin-bottomでつけてください*/
+  img {
+    margin-bottom: 10px;
+  }
+  /*カードの中の余白は、cardのpaddingで制御してください*/
+  .card {
+    padding: 10px;
+  }
