@@ -1,10 +1,18 @@
 /* カードの背景色を#FFFFFFに設定 */
-.card {
+/* .card {
+    background-color: #FFFFFF;
+  } */
+    /*headerの背景色を白色に設定*/
+  header {
     background-color: #FFFFFF;
   }
-  /*headerの背景色を白色に設定*/
-    header {
-        background-color: white;
+    /*footerの背景色を白色に設定*/
+    footer {
+    background-color: #FFFFFF;
+    }
+    /*bodyの背景色：#C4C4C4に設定*/
+    body {
+    background-color: #C4C4C4;
     }
   /*タイトルの文字の色を#282828、大きさを14pxに設定*/
   h1 {
