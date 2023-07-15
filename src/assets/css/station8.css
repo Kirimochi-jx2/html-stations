@@ -3,11 +3,14 @@
     background-color: #FFFFFF;
   } */
  /* 横並びレイアウトを1つのflexで作ってみましょう！ */
-    .card.flex { 
-        display: flex; /* flexboxを使う宣言 */
-        justify-content: center; /* 横方向の中央揃え */
-        align-items: center; /* 縦方向の中央揃え */
-        }
+    .card-container {
+      display: flex;
+    }
+    /* 横並びレイアウトを1つのflexで作ってみましょう！ */
+    .card{
+        justify-content: center;
+        align-items: center;
+    }
     /*headerの背景色を白色に設定*/
     header {
         background-color: #FFFFFF;
