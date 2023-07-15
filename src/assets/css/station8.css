@@ -3,7 +3,7 @@
     background-color: #FFFFFF;
   } */
  /* 横並びレイアウトを1つのflexで作ってみましょう！ */
-    .flex.card {
+    .card.flex { 
         display: flex; /* flexboxを使う宣言 */
         justify-content: center; /* 横方向の中央揃え */
         align-items: center; /* 縦方向の中央揃え */
