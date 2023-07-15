@@ -2,12 +2,18 @@
 /* .card {
     background-color: #FFFFFF;
   } */
-  /*横並びレイアウトを1つのflexで作ってみましょう！*/
-    .flex {
+  /*.cardクラスのレイアウトがflexboxを使って制御されていることを確認してください*/
+    .card {
         display: flex;
         justify-content: center;
         align-items: center;
         }
+  /* 横並びレイアウトを1つのflexで作ってみましょう！
+    .flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        } */
     /*headerの背景色を白色に設定*/
     header {
         background-color: #FFFFFF;
