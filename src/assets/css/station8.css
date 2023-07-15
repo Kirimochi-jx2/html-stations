@@ -1,7 +1,7 @@
-/* カードの背景色を#FFFFFFに設定 */
-/* .card {
+/* カードの背景色を#FFFFFFに設定  */
+ .card {
     background-color: #FFFFFF;
-  } */
+  }
   /*.cardクラスのレイアウトがflexboxを使って制御されていることを確認してください*/
     .card {
         display: flex;
