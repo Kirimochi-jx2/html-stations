@@ -1,14 +1,14 @@
 /* カードの背景色を#FFFFFFに設定  */
- .card {
+ /* .card {
     background-color: #FFFFFF;
-  }
+  } */
   /*.cardクラスのレイアウトがflexboxを使って制御されていることを確認してください*/
     .card {
         display: flex;
         justify-content: center;
         align-items: center;
         }
-  /* 横並びレイアウトを1つのflexで作ってみましょう！
+ /* 横並びレイアウトを1つのflexで作ってみましょう！ */
     .flex {
         display: flex;
         justify-content: center;
